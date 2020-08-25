@@ -1,0 +1,1408 @@
+{
+    "frames": [
+        {
+            "filename": "arkanoid_barralarga",
+            "frame": {
+                "w": 48,
+                "h": 8,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_barra",
+            "frame": {
+                "w": 32,
+                "h": 8,
+                "x": 0,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_barracorta",
+            "frame": {
+                "w": 26,
+                "h": 8,
+                "x": 0,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 26,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 42,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_b_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 58,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_c_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_d_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 74,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_e_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_g_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_l_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 90,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_m_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_n_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_p_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 0,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 16,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 32,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 48,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 64,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 80,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 96,
+                "y": 104
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 106,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_r_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 8
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_4",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 40
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_5",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 48
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_6",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_7",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_s_8",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 72
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_1",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 80
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_2",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_powerup_t_3",
+            "frame": {
+                "w": 16,
+                "h": 8,
+                "x": 112,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "arkanoid_bola",
+            "frame": {
+                "w": 5,
+                "h": 4,
+                "x": 122,
+                "y": 16
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}
