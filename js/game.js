@@ -1,7 +1,7 @@
 var config = {
     type: Phaser.AUTO,
-    width: 400,
-    height: 400,
+    width: 416,
+    height: 416,
     physics: {
         default: "arcade",
         arcade: {
@@ -9,12 +9,16 @@ var config = {
         }
     },
 
-    scene: [Juego]
+    scene: [Level1, Level2]
 };
 
 var game = new Phaser.Game(config);
 
-var mapa
-var barra
-var bola
-var lanzamiento
+var map;
+var paddle;
+var ball;
+var launch;
+var score;
+var scoreText;
+var lifes;
+var lifesText;
